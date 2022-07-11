@@ -1,4 +1,3 @@
-sa
 # Landscape performance during turbulence 
 
 #### What is this ?
